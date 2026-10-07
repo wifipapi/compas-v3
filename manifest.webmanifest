@@ -1,0 +1,17 @@
+{
+  "name": "Craeven • Decision Compass V2",
+  "short_name": "Craeven Compass",
+  "description": "Three ranked combat and roleplaying paths with consequences, character reasoning and detailed tactics.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07111b",
+  "theme_color": "#07131f",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
